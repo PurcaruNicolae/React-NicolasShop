@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-
+import './HomeCategory.css'
 function HomeCategory(props) {
     const {route, name, description, image} = props;
 
